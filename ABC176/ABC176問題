@@ -15,3 +15,5 @@ AtCoder ABC176 問題集
 | D        |01BFS                                      | [リンク](https://atcoder.jp/contests/abc176/tasks/abc176_d) |
 | E        |              | [リンク](hhttps://atcoder.jp/contests/abc176/tasks/abc176_e) |
 
+D問題解説
+01BFSの問題である．基本的には追加０のBFSを行って，移動先との大小を見比べてワープを行う
