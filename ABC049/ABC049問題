@@ -1,0 +1,15 @@
+AtCoder ABC049 問題集
+
+このリポジトリには、AtCoder Beginner Contest 049（ABC049）の問題に対する解答が含まれています。
+# AtCoder ABC049 問題集
+
+このリポジトリには、AtCoder Beginner Contest 049（ABC049）の問題に対する解答が含まれています。各問題は対応するフォルダに入れてあります。
+
+## 問題概要
+
+| 問題番号 | 軽い問題解説                                                                                           | URL                                               |
+|----------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| A        |                                | [リンク](https://atcoder.jp/contests/abc049/tasks/abc049_a) |
+| B        |                            | [リンク](https://atcoder.jp/contests/abc049/tasks/abc049_b) |
+| C        |                                         | [リンク](https://atcoder.jp/contests/abc049/tasks/arc065_a) |
+| D        |Dp練習                                      | [リンク](https://atcoder.jp/contests/abc049/tasks/arc065_b) |
